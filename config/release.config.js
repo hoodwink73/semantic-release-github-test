@@ -23,4 +23,15 @@ module.exports = {
       ],
     },
   },
+  {
+  "release": {
+    "verifyConditions": ["@semantic-release/github"],
+    "publish": {
+      "path": "@semantic-release/github",
+      "assets": [
+        {"path": "index.js", "label": "JS distribution"}
+      ]
+    }
+  }
+}
 };
