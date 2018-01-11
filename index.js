@@ -1,4 +1,4 @@
 const message = 'hello world';
-const feature = 'new big feature';
+const feature = 'new big feature oh yeah';
 
 export default message;
