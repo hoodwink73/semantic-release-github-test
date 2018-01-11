@@ -1,1 +1,1 @@
-# Github release
+# Test out semantic github release
