@@ -1,0 +1,24 @@
+{
+  "name": "gs-semantic-release-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release -e ./config/release.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoodwink73/semantic-release-github-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoodwink73/semantic-release-github-test/issues"
+  },
+  "homepage": "https://github.com/hoodwink73/semantic-release-github-test#readme",
+  "devDependencies": {
+    "semantic-release": "^11.0.2"
+  }
+}
