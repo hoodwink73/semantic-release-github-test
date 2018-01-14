@@ -10,3 +10,5 @@ Trying out HTML in commit description
 Changes to <iframe>
 
 Test out my PR which escapes HTML in commit messages
+
+ Fix double escaping HTML
