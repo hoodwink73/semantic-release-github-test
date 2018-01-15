@@ -16,3 +16,5 @@ Test out my PR which escapes HTML in commit messages
  Checking out value for flag
 
  Lets not pass a flag
+
+Now test again with hook
